@@ -1,6 +1,6 @@
 import java.util.Scanner;  
 import java.lang.Math;  
-import java.io.printer; 
+Scanner not used 
 import java.io.collection; 
 import java.io.scanner;
 import java.io.outputprinter;
